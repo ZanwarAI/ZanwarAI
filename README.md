@@ -23,6 +23,7 @@ Materials from one of the largest student-led AI events on campus this semester.
 
 - **[MP2 Biosciences](https://mp2web.vercel.app)** — Yale biotech, AQP4 inhibitors for myocardial edema
 - **[REMED Therapeutics](https://remed-site.vercel.app)** — Yale Med spinout, renalase therapeutics
+- **[Dr. Greg Licholai](https://licholai-site.vercel.app)** — Yale faculty personal site
 - **[Victory Genomics](https://victory-genomics-redesign.vercel.app)** — equine whole-genome sequencing redesign
 - **[IntersectSTEM](https://intersectstem-next.vercel.app)** — 501(c)(3) I founded (1,200+ students, 8 chapters)
 
