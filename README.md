@@ -36,4 +36,4 @@ Next.js (App Router) · TypeScript · Tailwind · TanStack · Bun · Claude Code
 
 ### Contact
 
-[zain.anwar@yale.edu](mailto:zain.anwar@yale.edu) · [LinkedIn](https://www.linkedin.com/in/zain-anwar-yale)
+[zain.anwar@yale.edu](mailto:zain.anwar@yale.edu)
